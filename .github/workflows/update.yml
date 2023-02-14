@@ -16,19 +16,18 @@ jobs:
                 submodules: true
                 fetch-depth: 0
 
-            # - name: Submodule update
-            #   run: |
-            #     git submodule update --remote --merge
+            - name: Submodule update
+              run: |
+                git submodule update --remote --merge
 
             - name: execute py script
               run: |
                   cd rstthreats
-                  python extract.py
-                  wc -l "../random100_ioc_url_latest_all.txt"
+                  python ../extract.py
 
-            # - name: commit files
-            #   run: |
-            #       git config --local user.email "action@github.com"
-            #       git config --local user.name "GitHub Action"
-            #       git add -A
-            #       git diff --name-only --cached --exit-code || ( git commit -am "update blocklist" && git push )
+            - name: commit files
+              run: |
+                  git config --local user.email "action@github.com"
+                  git config --local user.name "GitHub Action"
+                  git add -A
+                  git diff --name-only --cached --exit-code || ( git commit -am "update lists" && git push )
