@@ -1,0 +1,3 @@
+[submodule "rstthreats"]
+	path = rstthreats
+	url = https://github.com/rstcloud/rstthreats.git

@@ -1,0 +1,34 @@
+name: update
+
+on:
+    workflow_dispatch:
+    schedule:
+        - cron: "0 * */1 * *" # At minute 0 on every day-of-month.
+
+jobs:
+    generate_list:
+        runs-on: ubuntu-latest
+        steps:
+            - name: checkout repo content
+              uses: actions/checkout@v3
+              with:
+                persist-credentials: false
+                submodules: true
+                fetch-depth: 0
+
+            # - name: Submodule update
+            #   run: |
+            #     git submodule update --remote --merge
+
+            - name: execute py script
+              run: |
+                  cd rstthreats
+                  python extract.py
+                  wc -l "../random100_ioc_url_latest_all.txt"
+
+            # - name: commit files
+            #   run: |
+            #       git config --local user.email "action@github.com"
+            #       git config --local user.name "GitHub Action"
+            #       git add -A
+            #       git diff --name-only --cached --exit-code || ( git commit -am "update blocklist" && git push )
