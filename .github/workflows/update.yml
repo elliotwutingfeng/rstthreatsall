@@ -15,14 +15,13 @@ jobs:
                 submodules: true
                 fetch-depth: 0
 
-            - name: Submodule update
+            - name: Update rstthreats
               run: |
                 git submodule update --remote --merge
 
             - name: execute py script
               run: |
-                  cd rstthreats
-                  python ../extract.py
+                  python extract.py
 
             - name: commit files
               run: |

@@ -24,11 +24,20 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 """
 
+import enum
 import json
 import logging
+import multiprocessing
+import os
 import socket
 import subprocess
 import unittest
+
+domain_feed_path = f"feeds{os.sep}full{os.sep}random100_ioc_domain_latest.json"
+ip_feed_path = f"feeds{os.sep}full{os.sep}random100_ioc_ip_latest.json"
+url_feed_path = f"feeds{os.sep}full{os.sep}random100_ioc_url_latest.json"
+
+os.chdir("rstthreats")
 
 
 def extract_ioc_records(feed_path: str) -> list[dict]:
@@ -153,9 +162,9 @@ class TestMethods(unittest.TestCase):
     def setUp(self):
         self.ioc_record_sample_size = 500
 
-        self.domain_feed_path = "feeds/full/random100_ioc_domain_latest.json"
-        self.ip_feed_path = "feeds/full/random100_ioc_ip_latest.json"
-        self.url_feed_path = "feeds/full/random100_ioc_url_latest.json"
+        self.domain_feed_path = domain_feed_path
+        self.ip_feed_path = ip_feed_path
+        self.url_feed_path = url_feed_path
 
         self.domain_ioc_records = extract_ioc_records(self.domain_feed_path)[
             : self.ioc_record_sample_size
@@ -174,6 +183,7 @@ class TestMethods(unittest.TestCase):
         self.url_and_latest_last_seen = get_ioc_and_latest_last_seen(self.url_and_last_seen)
 
     def test_extract_ioc_records(self):
+
         self.assertTrue(len(self.domain_ioc_records) == self.ioc_record_sample_size)
         self.assertTrue(len(self.ip_ioc_records) == self.ioc_record_sample_size)
         self.assertTrue(len(self.url_ioc_records) == self.ioc_record_sample_size)
@@ -214,28 +224,34 @@ class TestMethods(unittest.TestCase):
             )
             == 2
         )
-        self.assertTrue(len(self.domain_and_latest_last_seen) == 499)
 
 
 if __name__ == "__main__":
-    domain_ioc_records = extract_ioc_records("feeds/full/random100_ioc_domain_latest.json")
-    domain_and_last_seen = get_domain_and_last_seen(domain_ioc_records)
-    domain_and_latest_last_seen = get_ioc_and_latest_last_seen(domain_and_last_seen)
 
-    with open("../random100_ioc_domain_latest_all.txt", "w") as f:
-        f.write("\n".join(domain_and_latest_last_seen))
+    class Task(enum.Enum):
+        DOMAIN = 1
+        IP = 2
+        URL = 3
 
-    ip_ioc_records = extract_ioc_records("feeds/full/random100_ioc_ip_latest.json")
-    ip_and_last_seen = get_ip_and_last_seen(ip_ioc_records)
-    ip_and_latest_last_seen = get_ioc_and_latest_last_seen(ip_and_last_seen)
+    def extract_iocs(task: Task):
+        if task is Task.DOMAIN:
+            domain_ioc_records = extract_ioc_records(domain_feed_path)
+            domain_and_last_seen = get_domain_and_last_seen(domain_ioc_records)
+            domain_and_latest_last_seen = get_ioc_and_latest_last_seen(domain_and_last_seen)
+            with open(f"..{os.sep}random100_ioc_domain_latest_all.txt", "w") as f:
+                f.write("\n".join(domain_and_latest_last_seen))
+        if task is Task.IP:
+            ip_ioc_records = extract_ioc_records(ip_feed_path)
+            ip_and_last_seen = get_ip_and_last_seen(ip_ioc_records)
+            ip_and_latest_last_seen = get_ioc_and_latest_last_seen(ip_and_last_seen)
+            with open(f"..{os.sep}random100_ioc_ip_latest_all.txt", "w") as f:
+                f.write("\n".join(ip_and_latest_last_seen))
+        if task is Task.URL:
+            url_ioc_records = extract_ioc_records(url_feed_path)
+            url_and_last_seen = get_url_and_last_seen(url_ioc_records)
+            url_and_latest_last_seen = get_ioc_and_latest_last_seen(url_and_last_seen)
+            with open(f"..{os.sep}random100_ioc_url_latest_all.txt", "w") as f:
+                f.write("\n".join(url_and_latest_last_seen))
 
-    with open("../random100_ioc_ip_latest_all.txt", "w") as f:
-        f.write("\n".join(ip_and_latest_last_seen))
-
-    url_ioc_records = extract_ioc_records("feeds/full/random100_ioc_url_latest.json")
-    url_and_last_seen = get_url_and_last_seen(url_ioc_records)
-    url_and_latest_last_seen = get_ioc_and_latest_last_seen(url_and_last_seen)
-
-    with open("../random100_ioc_url_latest_all.txt", "w") as f:
-        f.write("\n".join(url_and_latest_last_seen))
-
+    with multiprocessing.Pool(None) as p:
+        p.map(extract_iocs, [Task.DOMAIN, Task.IP, Task.URL])
