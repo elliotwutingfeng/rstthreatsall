@@ -3,7 +3,7 @@ name: update
 on:
     workflow_dispatch:
     schedule:
-        - cron: "10 23 * * *" # At 23:10 UTC
+        - cron: "10 7 * * *" # At 7:10 UTC
 
 jobs:
     generate_list:
