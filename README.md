@@ -6,10 +6,14 @@
 
 Aggregated Indicators of Compromise collected and cross-verified from multiple open and community-supported sources by [RST Cloud](https://rstcloud.com).
 
-This repository consolidates all unique IOCs ever released at [rstthreats](https://github.com/rstcloud/rstthreats) and their "last seen" timestamps into **.txt** files. Updated at least once a day.
+This repository consolidates all unique IOCs ever released at [rstthreats](https://github.com/rstcloud/rstthreats) and their "last seen" timestamps (in UNIX seconds) into **.txt** files. Updated at least once a day.
 
 ## Testing
 
 ```bash
 make test
 ```
+
+## Usage
+
+This repository will not be monitored for false-positives. Some of the listed IOCs have last seen timestamps dating back to 2022. If you intend to use this as a firewall blocklist, you are encouraged to filter out older entries beforehand.
