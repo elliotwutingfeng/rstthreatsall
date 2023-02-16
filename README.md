@@ -1,7 +1,7 @@
 # RST THREAT FEED (all)
 
 [![GitHub license](https://img.shields.io/badge/LICENSE-MIT-GREEN?style=for-the-badge)](LICENSE)
-[![Last Updated](https://img.shields.io/github/actions/workflow/status/elliotwutingfeng/rstthreatsall/update.yml?branch=main&label=Last%20Updated&style=for-the-badge)](https://github.com/elliotwutingfeng/rstthreatsall/actions/workflows/update.yml)
+[![Update](https://img.shields.io/github/actions/workflow/status/elliotwutingfeng/rstthreatsall/update.yml?branch=main&label=Update&style=for-the-badge)](https://github.com/elliotwutingfeng/rstthreatsall/actions/workflows/update.yml)
 <img src="https://tokei-rs.onrender.com/b1/github/elliotwutingfeng/rstthreatsall?label=Total%20Domains%20%26%20IPs%20(Short)&style=for-the-badge" alt="Total Domains & IPs (Short)"/>
 
 Aggregated Indicators of Compromise collected and cross-verified from multiple open and community-supported sources by [RST Cloud](https://rstcloud.com).
