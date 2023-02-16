@@ -357,7 +357,6 @@ class TestShort(unittest.TestCase):
         )
 
     def test_extract_short_ioc_records(self):
-        print(self.short_domain_ioc_records.keys())
         self.assertTrue(len(self.short_domain_ioc_records[Task.DOMAIN]))
         self.assertTrue(len(self.short_ip_ioc_records[Task.IP]))
         self.assertTrue(len(self.short_url_ioc_records[Task.URL]))
