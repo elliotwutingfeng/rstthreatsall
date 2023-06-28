@@ -117,7 +117,7 @@ class Random100(CommitHistory):
         """
         return sorted(
             set((h["ip"]["v4"].strip(), h["lseen"]) for h in ioc_records),
-            key=lambda x: (socket.inet_aton(x[0]), x[1]),
+            key=lambda x: (socket.inet_pton(socket.AF_INET, x[0]), x[1]),
         ) + [("", "")]
 
     def get_url_and_last_seen(self, ioc_records: list[dict]) -> list[tuple[str, str]]:
@@ -327,7 +327,9 @@ class Short(CommitHistory):
 
         ip_and_latest_last_seen = [
             f"{s[0]} # {s[1]}"
-            for s in sorted(ip_records.items(), key=lambda x: socket.inet_aton(x[0]))
+            for s in sorted(
+             ip_records.items(), key=lambda x: socket.inet_pton(socket.AF_INET, x[0])
+            )
         ]
         if ip_and_latest_last_seen:
             with open(f"..{os.sep}ioc_ip_short_all.txt", "w") as f:
