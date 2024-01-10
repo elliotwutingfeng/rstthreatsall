@@ -652,7 +652,9 @@ http://103.178.234.86/bins/sora.x86_64 # 1689206400
 http://103.178.235.18/skyljne.ppc # 1704326400
 http://103.178.235.42/skyljne.arm5 # 1703721600
 http://103.178.235.42/skyljne.arm6 # 1703808000
-http://103.178.235.88/skyljne.sh4 # 1704412800
+http://103.178.235.88/skyljne.mips # 1704672000
+http://103.178.235.88/skyljne.ppc # 1704672000
+http://103.178.235.88/skyljne.sh4 # 1704672000
 http://103.179.188.130/debug.dbg # 1683504000
 http://103.180.134.66/t257w/wininit.exe # 1691971200
 http://103.180.148.159/skyljne.arm # 1702339200
@@ -668,7 +670,7 @@ http://103.189.202.201/0000213/vbc.exe # 1690848000
 http://103.189.71.28:33855/mozi.m # 1666224000
 http://103.195.103.140/twootherthen.dat # 1656115200
 http://103.195.140.39:41764/mozi.m # 1694736000
-http://103.195.141.241:54555/.i # 1700438400
+http://103.195.141.241:54555/.i # 1704672000
 http://103.195.236.121/a-r.m-4.sakura # 1656115200
 http://103.195.236.121/a-r.m-6.sakura # 1656028800
 http://103.195.236.140/bins/sora.mips # 1687046400
@@ -1009,7 +1011,7 @@ http://106.14.149.88/g.pixel # 1696896000
 http://106.14.83.3/en_us/all.js # 1704153600
 http://106.140.87.79/index/loginmain.aspx # 1673568000
 http://106.15.235.168/pixel # 1700006400
-http://106.246.224.219/.l/pty3 # 1702598400
+http://106.246.224.219/.l/pty3 # 1704672000
 http://106.246.224.219/.l/pty3/?ddos # 1695686400
 http://106.246.224.219/.l/pty4 # 1703462400
 http://106.246.224.219/.l/pty4/?ddos # 1698451200
@@ -1068,7 +1070,7 @@ http://106.87.91.218:45873/mozi.m # 1655596800
 http://106.96.99.129:49360/mozi.m # 1672790400
 http://106er6yv2xriw1g28g6o1nrgjcv.org/updatec # 1660608000
 http://107.129.164.156:54020/mozi.a # 1670716800
-http://107.135.46.249:37221/.i # 1688688000
+http://107.135.46.249:37221/.i # 1704672000
 http://107.142.171.93:35816/i # 1693785600
 http://107.142.171.93:54790/mozi.m # 1694736000
 http://107.142.171.93:56088/bin.sh # 1684972800
@@ -1560,6 +1562,7 @@ http://110.183.52.101:21613/.i # 1697846400
 http://110.183.52.178:41781/mozi.m # 1679184000
 http://110.183.52.198:52184/.i # 1701388800
 http://110.183.52.219:18291/.i # 1703376000
+http://110.183.53.114:23552/.i # 1704672000
 http://110.183.54.116:45880/bin.sh # 1677542400
 http://110.183.55.17:37194/.i # 1683936000
 http://110.183.55.21:10154/.i # 1674691200
@@ -2534,6 +2537,7 @@ http://113.245.184.51:46987/mozi.a # 1654041600
 http://113.245.216.118:50995/mozi.a # 1678665600
 http://113.245.217.255:58237/mozi.m # 1683244800
 http://113.245.217.52:33650/mozi.a # 1669939200
+http://113.245.218.154:42110/mozi.m # 1701302400
 http://113.246.132.55:33964/bin.sh # 1680825600
 http://113.246.132.55:33964/i # 1675036800
 http://113.246.133.243:37785/bin.sh # 1666915200
@@ -4296,6 +4300,7 @@ http://115.78.133.115:24051/.i # 1704153600
 http://115.78.234.227:45174/.i # 1697846400
 http://115.88.206.54:43601/mozi.m # 1686355200
 http://115.88.206.54:45889/mozi.m # 1687392000
+http://115.90.181.102:23471/.i # 1704672000
 http://115.94.9.181:44048/.i # 1702684800
 http://115.96.118.5:59225/mozi.a # 1671494400
 http://115.96.126.63:37859/mozi.m # 1696377600
@@ -7508,7 +7513,7 @@ http://118.79.91.220:50369/mozi.a # 1671840000
 http://118.79.99.30:33544/bin.sh # 1672099200
 http://118.91.53.48:3677/mozi.a # 1657929600
 http://118.91.53.48:3677/mozi.m # 1665532800
-http://118.91.54.34:4000/i # 1689984000
+http://118.91.54.34:4000/i # 1704672000
 http://118.91.54.34:4000/mozi.a # 1703808000
 http://118.91.54.34:4000/mozi.m # 1701475200
 http://118.99.183.235:50195/.i # 1663891200
@@ -8142,7 +8147,7 @@ http://121.136.74.72:56340/mozi.m # 1691366400
 http://121.140.198.125:63115/.i # 1703203200
 http://121.140.203.59:11406/.i # 1662940800
 http://121.140.215.114:12963/.i # 1667001600
-http://121.141.103.21:50970/.i # 1704067200
+http://121.141.103.21:50970/.i # 1704672000
 http://121.142.250.38:17945/.i # 1695168000
 http://121.147.201.182:20059/.i # 1659139200
 http://121.147.226.138:32804/.i # 1699401600
@@ -9146,7 +9151,7 @@ http://123.235.178.240:44705/mozi.m # 1682726400
 http://123.235.183.220:42359/i # 1675036800
 http://123.235.21.25:35619/mozi.a # 1688169600
 http://123.240.103.124:10769/.i # 1694476800
-http://123.240.103.89:55262/.i # 1697068800
+http://123.240.103.89:55262/.i # 1704672000
 http://123.240.143.236:33534/.i # 1699315200
 http://123.240.20.187:17629/.i # 1700784000
 http://123.240.203.42:48600/.i # 1688515200
@@ -9169,6 +9174,7 @@ http://123.241.15.98:52435/mozi.m # 1655510400
 http://123.241.15.98:55091/mozi.m # 1678320000
 http://123.241.185.58:41653/.i # 1696896000
 http://123.241.210.96:44361/.i # 1703635200
+http://123.241.214.157:30368/.i # 1704672000
 http://123.241.36.124:2001/.i # 1655164800
 http://123.241.57.252:65057/.i # 1703808000
 http://123.241.60.240:34083/bin.sh # 1692835200
@@ -9635,6 +9641,7 @@ http://124.234.245.89:49024/.i # 1679702400
 http://124.234.247.217:32773/.i # 1700956800
 http://124.234.247.217:34308/.i # 1701820800
 http://124.235.114.103:57289/.i # 1704499200
+http://124.235.116.27:58170/.i # 1704672000
 http://124.235.169.234:35824/.i # 1678233600
 http://124.235.174.232:18302/.i # 1683590400
 http://124.235.175.169:45018/.i # 1671321600
@@ -9675,6 +9682,7 @@ http://125.104.194.254:58753/mozi.m # 1680652800
 http://125.104.41.241:48368/mozi.m # 1683072000
 http://125.104.42.53:32952/mozi.m # 1681084800
 http://125.104.62.241:57773/mozi.m # 1676332800
+http://125.104.64.15:60024/mozi.m # 1701302400
 http://125.104.66.251:51707/mozi.a # 1676160000
 http://125.104.68.62:44753/mozi.m # 1681862400
 http://125.104.71.1:41735/bin.sh # 1694995200
@@ -10853,6 +10861,7 @@ http://15.204.210.46/bins/sora.i686 # 1693008000
 http://15.204.210.46/bins/sora.m68k # 1691539200
 http://15.204.210.46/bins/sora.mpsl # 1692576000
 http://15.204.210.46/bins/sora.sh4 # 1693612800
+http://15.204.245.61/i686 # 1704412800
 http://15.204.49.145/files/javha.exe # 1684022400
 http://15.204.49.145/files/new1.exe # 1684022400
 http://15.204.49.148/files/installsetup2.exe # 1702252800
@@ -10993,6 +11002,7 @@ http://154.204.30.42/mpsl # 1690588800
 http://154.204.43.33/webindex/index.html # 1698364800
 http://154.204.59.208:8888/supershell/login # 1693353600
 http://154.204.60.102/image # 1696896000
+http://154.204.60.179/en_us/all.js # 1704672000
 http://154.211.20.240:8000/1 # 1699056000
 http://154.212.112.253/wp06/wp-includes/po.php # 1663027200
 http://154.213.17.132:999/ptj # 1700524800
@@ -14435,10 +14445,10 @@ http://185.17.0.86/mine1cry.exe # 1669334400
 http://185.170.226.57:54533/i # 1663113600
 http://185.172.128.121/svchost.exe # 1703116800
 http://185.172.128.154/cp.exe # 1704240000
-http://185.172.128.160/hv.exe # 1704326400
+http://185.172.128.160/hv.exe # 1704672000
 http://185.172.128.19/newrock.exe # 1704067200
 http://185.172.128.19/toolspub2.exe # 1703980800
-http://185.172.128.32/hv.exe # 1704499200
+http://185.172.128.32/hv.exe # 1704672000
 http://185.172.128.69/secondumma.exe # 1701993600
 http://185.172.128.79/f059ec3d7eb90876/mozglue.dll # 1703894400
 http://185.172.128.79/f059ec3d7eb90876/msvcp140.dll # 1704240000
@@ -14700,6 +14710,7 @@ http://185.81.157.105:555/l6gacqq431.txt # 1702339200
 http://185.81.157.150:222/d.jpg # 1703203200
 http://185.81.157.213:222/9x.jpg # 1703030400
 http://185.81.157.213:222/gen.txt # 1703894400
+http://185.81.157.213:222/gex.txt # 1704672000
 http://185.81.157.213:222/s7.jpg # 1703980800
 http://185.81.157.213:222/t2.jpg # 1704499200
 http://185.81.157.213:222/x4.jpg # 1703462400
@@ -14782,6 +14793,7 @@ http://187.66.115.125:17023/.i # 1670025600
 http://187.73.250.181:54728/mozi.m # 1676160000
 http://188.0.148.132:39374/mozi.a # 1668643200
 http://188.116.215.147:56876/i # 1690070400
+http://188.116.22.246/dashboard # 1704672000
 http://188.119.64.218:20002/ie9compatviewlist.xml # 1673049600
 http://188.119.65.242/dpixel # 1658793600
 http://188.119.67.114/login.php # 1643673600
@@ -15363,7 +15375,7 @@ http://193.142.147.59/an7jd0qo6kt5bk5bq4er8fe1xp7hl2vk/mozglue.dll # 1690156800
 http://193.142.147.59/an7jd0qo6kt5bk5bq4er8fe1xp7hl2vk/msvcp140.dll # 1703548800
 http://193.142.147.59/an7jd0qo6kt5bk5bq4er8fe1xp7hl2vk/nss3.dll # 1703289600
 http://193.142.147.59/an7jd0qo6kt5bk5bq4er8fe1xp7hl2vk/softokn3.dll # 1691798400
-http://193.142.147.59/an7jd0qo6kt5bk5bq4er8fe1xp7hl2vk/sqlite3.dll # 1693612800
+http://193.142.147.59/an7jd0qo6kt5bk5bq4er8fe1xp7hl2vk/sqlite3.dll # 1704672000
 http://193.142.147.59/an7jd0qo6kt5bk5bq4er8fe1xp7hl2vk/vcruntime140.dll # 1704240000
 http://193.142.59.107/africa/logs/fre.php # 1663718400
 http://193.142.59.89/africa/logs/fre.php # 1671580800
@@ -15966,6 +15978,7 @@ http://2.57.122.129/allahm68 # 1684972800
 http://2.57.122.129/allahmips # 1684540800
 http://2.57.122.129/mp5 # 1685491200
 http://2.57.38.157/sound.php # 1672963200
+http://2.58.113.172/login.php # 1704758400
 http://2.58.149.116/w # 1657152000
 http://2.58.149.2/detail12345_kgxrxcks.jpg # 1653436800
 http://2.58.149.2/payment_slip_pinkznwi.bmp # 1653696000
@@ -16373,7 +16386,7 @@ http://203.204.235.113:44940/.i # 1694563200
 http://203.204.251.222:31185/.i # 1698796800
 http://203.217.100.150:34020/.i # 1687046400
 http://203.218.108.108:45727/mozi.m # 1678665600
-http://203.223.44.206:8418/.i # 1693785600
+http://203.223.44.206:8418/.i # 1704672000
 http://203.232.58.153:27543/.i # 1682985600
 http://203.236.190.28:2514/mozi.7 # 1654214400
 http://203.243.141.15:4987/mozi.m # 1655510400
@@ -16594,7 +16607,7 @@ http://210.34.80.129/wbwj/fjafusoft/client_zffz.exe # 1691971200
 http://210.34.80.129/wbwj/fjafusoft/update_zffz.exe # 1701648000
 http://210.57.209.142:8080/rlvffslralwzhcxmzcnf # 1659398400
 http://210.57.224.157:4483/.i # 1660608000
-http://210.87.35.18:9240/.i # 1696723200
+http://210.87.35.18:9240/.i # 1704672000
 http://210.96.44.219:45071/.i # 1688342400
 http://210.99.125.95:56779/.i # 1654819200
 http://211.105.132.63:40940/mozi.m # 1680998400
@@ -16800,6 +16813,7 @@ http://213.14.188.78:47890/mozi.m # 1677110400
 http://213.14.188.78:56012/i # 1681862400
 http://213.142.151.173/xx/xd.x86 # 1659916800
 http://213.142.159.117/priviasecurity # 1693612800
+http://213.149.166.35:52127/.i # 1704672000
 http://213.149.171.82:25039/.i # 1692489600
 http://213.149.184.160:50969/.i # 1667088000
 http://213.149.190.193:19382/mozi.a # 1664064000
@@ -16899,8 +16913,8 @@ http://217.114.43.149/arm5 # 1692489600
 http://217.114.43.149/arm7 # 1692662400
 http://217.114.43.149/m68k # 1699920000
 http://217.114.43.149/mips # 1703635200
-http://217.114.43.149/mpsl # 1697068800
-http://217.114.43.149/ppc # 1703894400
+http://217.114.43.149/mpsl # 1704672000
+http://217.114.43.149/ppc # 1704672000
 http://217.114.43.149/sh4 # 1691884800
 http://217.115.83.162:25216/.i # 1697068800
 http://217.125.227.26:20085/.i # 1663200000
@@ -22425,7 +22439,7 @@ http://45.93.30.228/x86 # 1688256000
 http://45.93.31.28/arm5 # 1682467200
 http://45.95.146.114/pedalcheta/cutie.arm7 # 1682640000
 http://45.95.146.126/arm7 # 1703721600
-http://45.95.146.126/jklarm # 1703980800
+http://45.95.146.126/jklarm # 1704672000
 http://45.95.146.126/nabarm # 1703116800
 http://45.95.146.26//arm7 # 1700265600
 http://45.95.146.26/arm5 # 1703721600
@@ -22459,6 +22473,7 @@ http://45.95.147.172/skid.arm5 # 1704412800
 http://45.95.147.172/skid.m68k # 1704326400
 http://45.95.147.172/skid.x86 # 1704499200
 http://45.95.147.172/telarm5 # 1704240000
+http://45.95.147.172/telarm6 # 1704672000
 http://45.95.147.173/skid.mpsl # 1703894400
 http://45.95.147.183:3030/b # 1690156800
 http://45.95.147.236/download/redtail.i686 # 1704067200
@@ -22728,7 +22743,7 @@ http://49.159.198.129:38174/.i # 1698192000
 http://49.159.21.171:24782/.i # 1672185600
 http://49.159.92.189:8435/.i # 1694476800
 http://49.159.94.32:17670/.i # 1703462400
-http://49.174.82.174:53603/.i # 1694822400
+http://49.174.82.174:53603/.i # 1704672000
 http://49.176.181.215:48047/.i # 1703980800
 http://49.187.235.120:62691/.i # 1696723200
 http://49.187.250.252:16579/.i # 1679270400
@@ -22744,7 +22759,7 @@ http://49.213.212.154:44571/.i # 1691280000
 http://49.213.216.120:17583/.i # 1662768000
 http://49.213.228.23:10549/.i # 1698883200
 http://49.213.228.82:26144/.i # 1688860800
-http://49.213.231.81:13575/.i # 1698796800
+http://49.213.231.81:13575/.i # 1704672000
 http://49.213.235.2:33727/.i # 1704412800
 http://49.232.134.212/push # 1662163200
 http://49.232.175.5/ca # 1658016000
@@ -22915,6 +22930,7 @@ http://49.89.188.20:34212/mozi.m # 1654387200
 http://49.89.189.167:62747/.i # 1683590400
 http://49.89.192.123:31367/.i # 1683331200
 http://49.89.197.234:7817/.i # 1696204800
+http://49.89.201.211:45445/.i # 1704758400
 http://49.89.201.219:59756/.i # 1682812800
 http://49.89.220.25:47060/.i # 1702857600
 http://49.89.229.4:47929/.i # 1682208000
@@ -24400,6 +24416,7 @@ http://60.162.118.152:55678/mozi.m # 1670716800
 http://60.162.119.157:40449/mozi.m # 1684886400
 http://60.162.179.154:50846/mozi.m # 1653955200
 http://60.162.182.163:47005/mozi.a # 1680998400
+http://60.162.186.239:57760/mozi.m # 1701302400
 http://60.162.190.74:55678/mozi.a # 1669680000
 http://60.162.191.84:49434/mozi.m # 1670198400
 http://60.162.195.157:57581/bin.sh # 1685404800
@@ -25719,6 +25736,7 @@ http://76.64.175.49:50615/bin.sh # 1679184000
 http://76.64.34.16:42987/.i # 1663286400
 http://76.91.165.147:63855/.i # 1675900800
 http://76.94.65.41:58173/.i # 1691539200
+http://77.105.132.216/6bd88e242500a40e/softokn3.dll # 1704672000
 http://77.105.146.152/bfda4df0727326b7/freebl3.dll # 1695772800
 http://77.105.146.152/bfda4df0727326b7/msvcp140.dll # 1701561600
 http://77.105.146.38/cx # 1692144000
@@ -25942,7 +25960,7 @@ http://785135.org/index.html/?sharename=785135.org # 1675036800
 http://785143.org/index.html/?sharename=785143.org # 1674604800
 http://79.10.210.149:5913/.i # 1697155200
 http://79.11.158.214:37456/.i # 1700006400
-http://79.11.164.51:32561/.i # 1702598400
+http://79.11.164.51:32561/.i # 1704672000
 http://79.11.226.146:9510/.i # 1682640000
 http://79.11.38.194:11782/.i # 1699747200
 http://79.11.4.55:32025/.i # 1695513600
@@ -26338,7 +26356,7 @@ http://82.81.108.50:23045/.i # 1671667200
 http://82.81.131.158:48626/.i # 1683763200
 http://82.81.133.30:41782/.i # 1663545600
 http://82.81.134.133:38997/.i # 1690156800
-http://82.81.170.27:11457/.i # 1701993600
+http://82.81.170.27:11457/.i # 1704672000
 http://82.81.214.237:8572/.i # 1688256000
 http://82.81.218.88:4185/.i # 1686009600
 http://82.81.234.195:22771/.i # 1686614400
@@ -26916,7 +26934,7 @@ http://89.23.96.203/dashboard/1/oteratar07.exe # 1691712000
 http://89.23.96.203/dashboard/1/pt274.exe # 1692316800
 http://89.23.96.203/dashboard/1/screen.exe # 1687996800
 http://89.23.96.203/dashboard/1/tehpoddejrka06.exe # 1688688000
-http://89.23.98.92/file2/pdf.exe # 1704153600
+http://89.23.98.92/file2/pdf.exe # 1704672000
 http://89.23.98.92/file5/pdf.exe # 1704326400
 http://89.237.84.153:49973/.i # 1662076800
 http://89.237.88.206:10167/.i # 1688947200
@@ -27049,7 +27067,7 @@ http://91.213.50.74/new/mofers/nx.txt # 1696636800
 http://91.213.50.74/new/mofers/q1.txt # 1694476800
 http://91.213.50.74/new/mofers/rmz.txt # 1697846400
 http://91.213.50.74/new/mofers/sp/mc/bandi99.txt # 1693872000
-http://91.213.50.74/new/mofers/sp/nxj.txt # 1694131200
+http://91.213.50.74/new/mofers/sp/nxj.txt # 1704672000
 http://91.213.50.74/new/mofers/sp/q2s.txt # 1704240000
 http://91.213.50.74/new/mofers/t3.txt # 1694736000
 http://91.213.50.74/new/mofers/zx2.txt # 1692662400
@@ -27188,10 +27206,12 @@ http://93.123.49.138:11843/.i # 1703030400
 http://93.123.85.102/hiddenbin/boatnet.arm6 # 1701648000
 http://93.123.85.102/hiddenbin/boatnet.mpsl # 1701993600
 http://93.123.85.102/hiddenbin/boatnet.ppc # 1703980800
+http://93.123.85.116/bot.x86_64 # 1704672000
 http://93.123.85.124/87sbhas6as.arm7 # 1703376000
 http://93.123.85.124/87sbhas6as.sh4 # 1702166400
 http://93.123.85.124/nigga/nig.arm7 # 1702944000
 http://93.123.85.124/nigga/nig.x86 # 1703116800
+http://93.123.85.19/5311qjmikurawepedalnqmashrabotatuk61119123c/infn.arm6 # 1704672000
 http://93.123.85.22/bins/arm4 # 1703203200
 http://93.123.85.22/bins/arm7 # 1704412800
 http://93.123.85.22/bins/mips # 1704499200
@@ -27216,6 +27236,7 @@ http://93.123.85.91/h0r0zx00xh0r0zx00xdefault/h0r0zx00x.i686 # 1704412800
 http://93.123.85.91/hiroz3x.sh # 1704240000
 http://93.123.85.96/hiddenbin/boatnet.spc # 1701475200
 http://93.123.85.96/lmaowtf/loligang.arm7 # 1703376000
+http://93.123.85.97/y91/arm # 1704672000
 http://93.123.85.97/y91/mpsl # 1702857600
 http://93.123.97.117:51008/.i # 1661731200
 http://93.124.54.36:47331/i # 1659312000
@@ -27403,10 +27424,12 @@ http://94.46.235.17:24502/.i # 1697500800
 http://94.50.162.98:47010/i # 1683590400
 http://94.51.100.121:40773/mozi.a # 1661904000
 http://94.52.205.221:14857/.i # 1697500800
+http://94.53.116.104:54217/.i # 1704672000
 http://94.53.120.109/dusers.exe # 1662768000
 http://94.53.127.179:10775/.i # 1699315200
 http://94.60.126.183:55919/.i # 1662163200
 http://94.65.109.253:8661/.i # 1658188800
+http://94.67.196.125:59411/.i # 1704672000
 http://94.74.128.50:65074/.i # 1697846400
 http://94.77.237.147:44084/mozi.m # 1685664000
 http://94.85.0.3:6649/.i # 1685577600
@@ -27630,7 +27653,7 @@ http://98.113.72.33:46140/.i # 1667433600
 http://98.116.15.145:43328/.i # 1667347200
 http://98.128.161.15:39998/i # 1655078400
 http://98.14.183.227:64179/.i # 1696377600
-http://98.14.30.176:21298/.i # 1694736000
+http://98.14.30.176:21298/.i # 1704672000
 http://98.144.56.47/1/crp_linux_arm # 1662595200
 http://98.149.241.174:8146/.i # 1686009600
 http://98.157.228.234:44157/.i # 1674864000
@@ -29933,7 +29956,7 @@ http://erestappael.info/mvug # 1666828800
 http://erevan.shop/web-hosting.php # 1662422400
 http://erigat.com/sd28 # 1658188800
 http://erkaradyator.com.tr/areas/1dg2pestqnlojupp3fu # 1704499200
-http://erkaradyator.com.tr/areas/ar2lgc3yhtxby # 1703808000
+http://erkaradyator.com.tr/areas/ar2lgc3yhtxby # 1704672000
 http://erkaradyator.com.tr/areas/my5pdknb # 1687564800
 http://erniesimms.com/kio8 # 1663804800
 http://erninggrowthcamp.in/darkdhiraj/refer.php # 1682985600
@@ -30400,7 +30423,7 @@ http://geograunio.online/enchangers.zip # 1658361600
 http://geombiagioschettino.eu/userfiles/files/popomewilipizelidiga.pdf # 1704326400
 http://geopaper.ge/images/collect-free-spins-for-coin-master_gm406889139.pdf # 1693094400
 http://geosrt.com/atrabiliary/yfh # 1667001600
-http://geovanisantos.adv.br/wp-admin/pl/plg/plugin_1.plg # 1699747200
+http://geovanisantos.adv.br/wp-admin/pl/plg/plugin_1.plg # 1704672000
 http://geowf.ge/templates/tlbso1f7p # 1656806400
 http://geoxoutletfactoryuk.com/www.jx.com.zip # 1670976000
 http://gerber.cool/application/controllers/error.php # 1664928000
@@ -30416,6 +30439,7 @@ http://getpdf.pw/book/?res=123&isbn=9783897904859&kwd=testament # 1702339200
 http://getpdf.pw/book/?res=123&isbn=9789059113459&lng=nl&kwd=geheimen%20van%20de%20oranjes # 1703721600
 http://getpdf.pw/book/?res=strik&isbn=9780143113980&kwd=girls%20of%20riyadh # 1702944000
 http://getpdf.pw/book/?res=strik&isbn=9780333937747&kwd=brilliant%201%20teachers%20guide%20international # 1704067200
+http://getpdf.pw/book/?res=strik&isbn=9780415615075&kwd=educating%20for%20the%20knowledge%20economy%3F%20%3A%20critical%20perspectives # 1704758400
 http://getpdf.pw/book/?res=strik&isbn=9780691129037&kwd=echoes%20of%20violence%20%3A%20letters%20from%20a%20war%20reporter # 1703548800
 http://getpdf.pw/book/?res=strik&isbn=9780713688689&kwd=machine%20stitch%3A%20perspectives # 1695600000
 http://getpdf.pw/book/?res=strik&isbn=9780854739967&kwd=reading%20recovery%20and%20every%20child%20a%20reader%20%3A%20history%2C%20policy%2C%20and%20practice # 1703721600
@@ -32527,7 +32551,7 @@ http://papelestecnicos.com.pe/vb/fre.php # 1691280000
 http://paperbazaar.in/ont/aiemolrbaxmmu # 1668124800
 http://papgon10.ru/kennyb-1/pen.php # 1665100800
 http://papgon10.ru/oshok-two/pen.php # 1664409600
-http://parallel.rockvideos.at/n9h1k9gwt.gif # 1678320000
+http://parallel.rockvideos.at/n9h1k9gwt.gif # 1704672000
 http://parketematiko.com/prsr/stdlveopuas # 1664582400
 http://parla-c-o-n-n-o-i.com/app # 1657497600
 http://parrotbay.net/wisr1qas.jpg # 1703289600
@@ -32858,6 +32882,7 @@ http://quadrantmeasurements.com/loader/uploads/vbc_ugxhmowo.png # 1670803200
 http://quantvenue.com/iv9p # 1660176000
 http://quaoartuit.website/r5m3 # 1657584000
 http://quatuorxoz.cfd/circumstance # 1682294400
+http://queen-fdcd.layne1095.workers.dev/0a4f4bb9-94eb-4443-925c-33d98c1a948c # 1704758400
 http://queenee00.xyz/index.php # 1695859200
 http://quickloansbadcredit.org/qoba/aegutf # 1666742400
 http://quickshipmetals.top/test.php # 1653436800
@@ -32946,6 +32971,7 @@ http://rbsb.in/home # 1682726400
 http://rc3vees.whatsmapp.download/down/dbvnbdh # 1701043200
 http://rc3vees.whatsmapp.download/down/dfzrsmk # 1703808000
 http://rc3vees.whatsmapp.download/down/nimvkfk # 1704153600
+http://rc3vees.whatsmapp.download/down/ynliaad # 1704758400
 http://rc3vees.whatsmapp.download/down/zkwkkly # 1701043200
 http://rcciapp.com/htdocs/db_config.php # 1663804800
 http://rcu99online.myftp.org/royal_cu/login.php # 1682640000
@@ -33436,6 +33462,7 @@ http://service-cufhwy32-1317863896.gz.apigw.tencentcs.com:801/jquery-3.3.1.min.j
 http://service-cycewup6-1301310284.gz.apigw.tencentcs.com/api/getit # 1655424000
 http://service-gcxmg0rk-1259685312.gz.apigw.tencentcs.com/api/get # 1660694400
 http://service-hd6uwi4m-1307695615.gz.apigw.tencentcs.com/jquery-3.3.3.min.js # 1654041600
+http://service-hsyluctr-1252427727.bj.tencentapigw.com/ie9compatviewlist.xml # 1704672000
 http://service-ibyz0l1g-1312758067.gz.apigw.tencentcs.com/ga.js # 1700092800
 http://service-igme7ydn-1252572991.cd.apigw.tencentcs.com/api/getit # 1657584000
 http://service-js91wgi1-1303855452.sh.apigw.tencentcs.com/g.pixel # 1680480000
@@ -34376,6 +34403,7 @@ http://utbidet-ugeas.biz/d/n/?020646ce2d0646ce2d2846e22d0646472b76c1fb6d07460e85
 http://utbidet-ugeas.biz/d/n/?02064d9d53064d9d53374db153064d99089078d97f074d5dfb063cab7d3463a461367db353 # 1689292800
 http://utbidet-ugeas.biz/d/n/?0206a69b8e06a69b8e28a6b78e06a67b7e732813e807a65b260677ada03488a2bc3696b58e # 1697932800
 http://utbidet-ugeas.biz/d/n/?02082ebb5b082ebb5b262e975b082e434d8d9ce0af092e7bf308558d753a008269381e955b # 1701475200
+http://utbidet-ugeas.biz/d/n/?02082ebb5b082ebb5b262e975b082e99c3fafe13ac092e7bf308448d753a008269381e955b # 1704758400
 http://utbidet-ugeas.biz/d/n/?0208afcb6108afcb6126afe76108af67a56ea5793a09af0bc9082afd4f3a81f253389fe561 # 1699833600
 http://utbidet-ugeas.biz/d/n/?020a0b2d6c0a0b2d6c240b016c0a0b77dd53fbe0450b0bedc40ad41b423825145e3a3b036c # 1704326400
 http://utbidet-ugeas.biz/d/n/?020c0882630c0882632208ae630c08725790b830fb0d0842cb0cb8b44d3e26bb513c38ac63 # 1678492800
@@ -34412,6 +34440,7 @@ http://utbidet-ugeas.biz/d/n/?0224c9fe2924c9fe290ac9d22924c9207260ef0a5325c93e81
 http://utbidet-ugeas.biz/d/n/?0224df4a3024df4a300adf663024df2cbfd713634e25df8a9824377c1e16f1730214ef6430 # 1689724800
 http://utbidet-ugeas.biz/d/n/?022564ab272564ab270b64872725645813416285d224646b8f250d9d09174a921515548527 # 1698624000
 http://utbidet-ugeas.biz/d/n/?022666a24e2666a24e08668e4e2666aa5af8f422f0276662e626a9946014489b7c16568c4e # 1683763200
+http://utbidet-ugeas.biz/d/n/?02268ea171268ea171088e8d71268e83e9d45e0986278e61d926e4975f14a0984316be8f71 # 1704758400
 http://utbidet-ugeas.biz/d/n/?0226e7dfd826e7dfd808e7f3d826e78d5997c585dc27e71f702645e9f614c9e6ea16d7f1d8 # 1687132800
 http://utbidet-ugeas.biz/d/n/?022846b6e22846b6e206469ae228462a84cc142f202946764a288980cc1a688fd0187698e2 # 1702080000
 http://utbidet-ugeas.biz/d/n/?02288453b7288453b706847fb728847be5ddad57572984931f281a65991aaa6a8518b47db7 # 1689292800
@@ -35157,7 +35186,7 @@ http://wahkiulogistics.com.hk/upload/avtsilst00o # 1657929600
 http://wairoha.com/n9e0 # 1657756800
 http://wakanddenvigreen.duckdns.org/office365tax/secur # 1657065600
 http://wakeupanddreamchallenge.info/video/moncompte1/free/moncompte/bd3aab893d4e527864d3e78ddeae8c12/2892e3deaf9bd970cdb358c0e5656a09/index.php # 1687824000
-http://walkinglate.com/w/w-12.exe # 1703894400
+http://walkinglate.com/w/w-12.exe # 1704672000
 http://wallet-claim.com/tokenize.zip # 1659398400
 http://wallet-securities.com/metamask # 1656028800
 http://wallowmark.marketing/about-us.php # 1659398400
@@ -35266,8 +35295,11 @@ http://whistlespakistan.com/dashboard/phpinfo.php # 1676246400
 http://white-hat.uk/wp-content/themes/dt-the7/css/compatibility/elementor/the7-vertical-menu-widget.min.css/?ver=11.4.0 # 1681776000
 http://white-hat.uk/wp-content/themes/dt-the7/js/compatibility/elementor/sticky-effects.min.js/?ver=11.4.0 # 1680134400
 http://white-on-rice.com/logos/u # 1683504000
+http://whiteyaknepal.com/userfiles/files/facebook-coin-master-free-spins-link_gm406889139.pdf # 1704758400
+http://whiteyaknepal.com/userfiles/files/get-free-robux-generator_gm431946152.pdf # 1704758400
 http://wholeadress-renew.digital/bins/ts.exe # 1695772800
 http://wholeadress-renew.digital/bins/w.exe # 1696809600
+http://whuntex.ru/userfiles/file/23507005806.pdf # 1704758400
 http://wi-hide.com/n8s/?04849j=opc+pqk3nobq0crtjngxix38rbccodhstdbdc47uh0hr1gdyvjpuv4qfiuik4otwqiy35cpyqntuv1fqs/ssqw==&gl0h=ov30c4 # 1660089600
 http://wightwireless.net/communicator-6-2-0/communicator-6.2.0.exe # 1660867200
 http://wigzbybellalyn.info/f84t # 1660003200
@@ -35513,6 +35545,7 @@ http://zdigs.cfd/loader/uploads/fi_sflxarfl.bmp # 1656201600
 http://zebrawhale.com/hdeuxn/thai/i_16.html # 1660953600
 http://zebrawhale.com/hdeuxn/thai/index.html # 1660953600
 http://zeittresor.com/scifi-story-creator.zip # 1660176000
+http://zen.topteamlife.com/order/tuc2.exe # 1704672000
 http://zenovaa.com/o5gu/?dxjhm=x%2Fsavxqaa3qa%2Fhgwtgxb6tglyqa%2Fbeixksecbsoaqe%2Frdq%2Fnuapeep41hvddgtbt0eggvw==&tvypi=chqlv # 1699833600
 http://zepham.com/file # 1667952000
 http://zephni.com/site/pages/tools/deletez.zip # 1660176000
@@ -35934,6 +35967,7 @@ https://33rdderryscouts.com//wp-content/plugins/simple-responsive-slider/classes
 https://34.150.32.61/pixel.gif # 1695686400
 https://34.162.78.52/ca # 1676505600
 https://34.192.39.81/mua/validatpass/scis/j6unvhzsitlyrxstpnfun4tssjgejkn7dldp6fxsjfxo/3d/no-back-button # 1665705600
+https://34.217.252.38/de # 1700265600
 https://34.233.84.112/mua/validatepass/scis/j6unvhzsitlyrxstpnfun4tssjgejkn7dldp6fxsjfxo/3d/no-back-button # 1671321600
 https://34.92.125.242/cm # 1694649600
 https://34lv.com/ri01 # 1691625600
@@ -36024,6 +36058,7 @@ https://45gradi.com/awstats-icon/oct/5isfj61s # 1672704000
 https://46berrierscom-b7ce8f.ingress-comporellon.ewp.live/wp-admin/host7/admin/js/mj.php/?ar= # 1686787200
 https://47.100.244.166/g.pixel # 1680480000
 https://47.102.145.29/match # 1690761600
+https://47.109.102.98/dpixel # 1704672000
 https://47.117.163.173/updates.rss # 1685059200
 https://47.243.185.202/match # 1675987200
 https://47.87.128.214/bg # 1680825600
@@ -36926,6 +36961,7 @@ https://anders-wirken.de/wp-content/languages/hs56ety2htg011if56s.coc # 16783200
 https://andin-etc-co-rouin.fsxingfuju.com.cn/jp # 1672617600
 https://ando.co.kr/service/s_top.asp # 1696550400
 https://andrology.co.uk/uploads/files/files/coin-master-apk-mod-hack-download_gm406889139.pdf # 1704672000
+https://andrology.co.uk/uploads/files/files/coin-master-daily-free-spins-link-app_gm406889139.pdf # 1704758400
 https://aneeskhan.me/wp/index.php # 1695859200
 https://angelitaful.com/precious.apk # 1685577600
 https://angiathinh.com/autotoxication/96f # 1672617600
@@ -36933,7 +36969,7 @@ https://angiathinh.com/autotoxication/iue # 1672531200
 https://angloextrema.com.br/assets/oet1yyckhklnniq # 1671926400
 https://angonfurniture.com/new/auth/sf_rand_string_lowercase6/am5vbgxlckb0b2zlbgrlbnquy29t # 1684972800
 https://angonfurniture.com/new/auth/sf_rand_string_lowercase6/amtvbgjad2lszhn0b25ly29uc3rydwn0aw9ulmnvbq== # 1684972800
-https://angoraveteriner.com/sitemap/3157555319.png # 1704240000
+https://angoraveteriner.com/sitemap/3157555319.png # 1704672000
 https://animalclub.net/dogs/puppy.png # 1702598400
 https://animalclub.net/dogs/qz1 # 1702771200
 https://anizav.com/demo/demo1/dist/reseau.php # 1659484800
@@ -37407,6 +37443,7 @@ https://b20b3.top/?channelcode=dx10 # 1675987200
 https://b24-5nwqhm.bitrix24.site/crm_form_amdsq # 1664755200
 https://b2ypjfd2.myraidbox.de/wp-content/chau/sk # 1689984000
 https://b30fsecure.info/index%20oa.php # 1668470400
+https://b5a4qiid0j.execute-api.us-west-2.amazonaws.com/default/btpage # 1704758400
 https://b7xofksv.qwo231sdx.club/index/usps/index.html # 1659398400
 https://b867amcgu.myraidbox.de/kw/mainwebapp/account.php # 1688256000
 https://b8j90elwv.qwo231sdx.club/index/usps/index.html # 1658966400
@@ -37468,6 +37505,7 @@ https://bafybeihn3fd3znbtkw3nxvw756miz3aaqnf3ssy2guhzknzjix5mmpjppm.ipfs.fleek.c
 https://bagpump.eu/cloud/users.php # 1677196800
 https://bahamianrelief.org/vpho/ey # 1671667200
 https://baidu.cn/api/3 # 1701475200
+https://baidu.com/jquery-3.3.1.min.js # 1704672000
 https://baidusec.top/release # 1702252800
 https://baihaqie.com/tests/testcase.php # 1675900800
 https://baillor.com/oqu/rrmutue # 1654041600
@@ -37838,6 +37876,7 @@ https://bitbucket.org/softupd/softupd/downloads/microsoftoffice.rar # 1689465600
 https://bitbucket.org/softwarefiles/fulldownloadhere/downloads/main_setups_full_version.rar # 1703721600
 https://bitbucket.org/tautara-dwnl/download/downloads/kiddions_menu.rar # 1701302400
 https://bitbucket.org/tautaracheats-dwnld/tautaracheats/downloads/fortnite_cheat.rar # 1700524800
+https://bitbucket.org/tautata-hacks/download/downloads/kiddions_menu.rar # 1704672000
 https://bitbucket.org/thisisaworkspace/94f8j3984fj9348jf/raw/9835c82132a066ab11c152f43a64d0dcc99f9969/lemon.exe # 1694908800
 https://bitbucket.org/thisisaworkspace/bumogak/raw/cf339d8869a4980f17da4d2a7ca92d4cd8dfa47b/dcka.exe # 1690761600
 https://bitbucket.org/thisisaworkspace/bumogak/raw/cf339d8869a4980f17da4d2a7ca92d4cd8dfa47b/dev.exe # 1697068800
@@ -38750,9 +38789,11 @@ https://clouds-ocd-87e8.nswoadaas.workers.dev/0aa6cec5-90f9-424b-bab7-4f902d6086
 https://clouds-scene-ad2d.alessandraquinn.workers.dev/03cfe574-7e79-41b1-b74f-79ca53992a6f # 1703980800
 https://clouds-scene-ad2d.alessandraquinn.workers.dev/1f96f03c-da82-4dca-b206-b3f9bd6705bd # 1703980800
 https://clouds-scene-ad2d.alessandraquinn.workers.dev/db2310fd-9cae-4dec-a2c2-07fc3ff03074 # 1704326400
+https://clouds-scene-ed7a.emiliafalk.workers.dev/2a778b59-a1e1-4574-8e7d-ee57c38219bf # 1704758400
 https://clouds-scene-ed7a.emiliafalk.workers.dev/f2f43b24-22c3-4398-b3fe-f805f4d36bea # 1700870400
 https://clouds-voice-509b.incaamand.workers.dev/26900c92-9684-40f2-8c6f-a81a4bbe8d1b # 1702857600
 https://cloudvalive.com/ani02 # 1676073600
+https://clouuds-haze-bca9.esalasaimr-c19.workers.dev/4b97e5ad-4f09-4776-b3f9-d68115a52b60 # 1704758400
 https://clouuds-haze-bca9.esalasaimr-c19.workers.dev/9a57a317-3fe0-47cc-928f-c06c18556405 # 1704326400
 https://clouuds-haze-bca9.esalasaimr-c19.workers.dev/e9ee5541-681b-423e-a30e-cbf1286e9137 # 1703548800
 https://cltl-secure08-verify.com/indexsete.php # 1659571200
@@ -39112,6 +39153,7 @@ https://culinaria-passoapasso.artesanatodosucesso.com/mise/cliente.zip # 1680998
 https://culturadireitoesociedade.com.br/ts/?1 # 1696464000
 https://cumbrecapital.com/.customer/6b1r003355-your-receipt # 1696636800
 https://cumbrecapital.com/.customer/a1k414064-your-receipt # 1694908800
+https://cumnec-d22a.femjmrusdiae.workers.dev/ec18f39e-a313-4ac3-bbb8-9fca27763f86 # 1704758400
 https://curiofirenze.com/include/inc-site.asp # 1696550400
 https://curite.net/cgi-bin/1ixkx # 1657238400
 https://curite.net/cgi-bin/mvlewg5erc # 1662076800
@@ -39490,7 +39532,7 @@ https://development-admin-10002000300045678930016.tk/checkpoint_next.html # 1662
 https://devic-bc2adb.ingress-baronn.ewp.live/dev/dev # 1664064000
 https://devil-team666.life/k/user-pass.php # 1673049600
 https://devises-dz.com/sdf/install_pass1234.7z # 1696896000
-https://devises-dz.com/vps2012/file_pass1234.7z # 1686441600
+https://devises-dz.com/vps2012/file_pass1234.7z # 1704672000
 https://devlce-flnder.cloud/expire # 1691971200
 https://devvaults.com/taxm/?15532131 # 1697155200
 https://dexwalletconect.com/wallets.php # 1653782400
@@ -39786,6 +39828,7 @@ https://downrangevideos.com/wp-content/uploads/2022/07/taleanb.pdf # 1699315200
 https://downvidro.net/j17j # 1669852800
 https://dpmcompras.xyz/wp-content/r28snv2ko7tgd7yuiva # 1672012800
 https://dpoonabakers.com/ds/1512.gif # 1683763200
+https://dppd.43453663.xyz/e23nxw4u/i8klta/7 # 1704758400
 https://dq-cloud.com/iu/amnqodeliiu # 1664755200
 https://dq-cloud.com/iu/evamnilg # 1667520000
 https://dq-cloud.com/iu/nautalul # 1668902400
@@ -39809,6 +39852,7 @@ https://dreams4tomorrow.org/hello/lwqlt9bzx2q # 1673308800
 https://dreamwatchevent.com/wsalptza # 1692144000
 https://dreamwatchevent.com/zp-user # 1684627200
 https://dreamwithdell.com/wp-includes/px # 1678406400
+https://drecterion.com/wp-content/miche.png # 1704672000
 https://dreggiyts.myftp.org/king/chase/user/2ztk4ntu=/signin?205bfafa10d4513%3D # 1663286400
 https://drei-schneeballen.de/wp-content/plugins/nextgen-gallery/view.php # 1696550400
 https://drfishmanlabs.com/aen/sattnuu # 1667865600
@@ -39867,7 +39911,7 @@ https://drive.google.com/uc/?export=download&id=1o9jg3oqyewncoptigwscdbtfmvtfqyg
 https://drive.google.com/uc/?export=download&id=1oqelfj-kpwylvasdt2-_n5xuteprlrrz # 1690070400
 https://drive.google.com/uc/?export=download&id=1owuxadtxpwez4xy54rdefqazzq38ntmd # 1699315200
 https://drive.google.com/uc/?export=download&id=1pr2l1wfpwhfzln-sq93bb9xwfqtrwezu # 1692921600
-https://drive.google.com/uc/?export=download&id=1qnnvejemq-1gs3dvhxttfutbma4feybs # 1700697600
+https://drive.google.com/uc/?export=download&id=1qnnvejemq-1gs3dvhxttfutbma4feybs # 1704672000
 https://drive.google.com/uc/?export=download&id=1qrmiydcjalup6ilaiwgef0frfh9m6gx2 # 1700956800
 https://drive.google.com/uc/?export=download&id=1rfsmrzeanvap2tnmtwrptlepwarwlkge # 1704585600
 https://drive.google.com/uc/?export=download&id=1rq-2h4iteuydypxvrcy7p37mlfzpy5eg # 1704412800
@@ -39889,7 +39933,7 @@ https://drive.google.com/uc/?id=1ftdpsjfe7ijdsqbniiotepmgxptkt2aq&export=downloa
 https://drive.google.com/uc/?id=1gwsdcu5mxxo0oq3kiaerlwqqcpxbg74p&export=download&authuser=0 # 1697068800
 https://drive.google.com/uc/?id=1kavuowl0c1mms_vtxozw-cwq7hwto0el&export=download&authuser=0 # 1690761600
 https://drive.google.com/uc/?id=1muylhdulpe2pdti9s1nepzvhweyvndzh&export=download # 1671667200
-https://drive.google.com/uc/?id=1nmo38gwdllgzyd-hnhpvh9gq81wetj3x&export=download # 1703980800
+https://drive.google.com/uc/?id=1nmo38gwdllgzyd-hnhpvh9gq81wetj3x&export=download # 1704672000
 https://drive.google.com/uc/?id=1qvag-koyy2l8h5lwvaeaw35hnuwbm3xo # 1703721600
 https://drive.google.com/uc/?id=1temu5o6vysrjh9gvqf1v7h5ya-3ssbkn&export=download&confirm=t # 1689897600
 https://drive.google.com/uc/?impresion=videocadenasur%40hotmail.com&id=10zlbqupbye6c-52henataib2pellsg1z # 1703376000
@@ -40971,7 +41015,7 @@ https://freshfish.frosa.me/bofa/www.bankofamerica.com # 1660953600
 https://fretco.lebonplus.com/scarica # 1696377600
 https://freudeundheilung.de/go.php # 1693008000
 https://frey2.com/eemo # 1697846400
-https://frezzyhook.com/download/loader.exe # 1696723200
+https://frezzyhook.com/download/loader.exe # 1704672000
 https://fridgemagnetss.com/imuq/mauqduisiq # 1668384000
 https://friendflorida.org/tyyy/zn202/2920/sf_rand_string_lowercase6/am9uyxroyw5azhjvchbzlmnvbq== # 1686960000
 https://friendzz.co/upload/files/2022/06/h7p6wsb9qcqtoitzumww_10_6e7754e5690827c0132f1123f4f4bea8_file.pdf # 1702166400
@@ -41224,6 +41268,7 @@ https://github.com/evilhuntersproject/launcher/raw/de039960926409bf4959ea23abf16
 https://github.com/evilhuntersproject/launcher/raw/f465b17a5e08b9d70d6be65f05281f1c2b7c75a9/evil_launcher_beta-win_x64.zip # 1687824000
 https://github.com/fate1337pw/fortnite/raw/main/fortnite2.exe # 1690502400
 https://github.com/fate1337pw/fortnite/raw/main/fortnite3.exe # 1700265600
+https://github.com/filmans/winlocker/releases/download/winlocker/cheat.exe # 1704672000
 https://github.com/gork3m/robloxstuff/blob/main/luarmor_compatibility_test.lua # 1696982400
 https://github.com/hadibokonrat/saderat-shell # 1702252800
 https://github.com/hoter666/8888/blob/main/banana.exe # 1700956800
@@ -41252,7 +41297,7 @@ https://github.com/neardream2/1/raw/main/1230.exe # 1704240000
 https://github.com/nguyenvietphat/ransomware.git # 1691452800
 https://github.com/officialprogramm/intelligent-standby-list-cleaner-/blob/main/islc%20v1.0.2.8.zip # 1687219200
 https://github.com/ollll4533/alexproduct/raw/main/%40natsu338_alice.exe # 1696636800
-https://github.com/perecrestock/joker1488/raw/main/easy.exe # 1703894400
+https://github.com/perecrestock/joker1488/raw/main/easy.exe # 1704672000
 https://github.com/peterlyly # 1686355200
 https://github.com/progrovv/winlock/raw/main/winlock.exe # 1703980800
 https://github.com/puralain3478/main/archive/refs/heads/main.zip # 1692748800
@@ -41270,6 +41315,7 @@ https://github.com/sgrfbnfhgrhthr/csdvmghfmgfd/raw/main/zoom.zip # 1664064000
 https://github.com/sid8l/windows-multiple-dll-injector-eac-be-vanguard/raw/main/windows%20multiple%20dll%20injector%20eac%20be%20vanguard/dll%20injector%20v1%20full%e2%80%aenls..scr # 1670803200
 https://github.com/siqlab/malware-retailer/raw/main/compressed-zip-t03-b03/02690278f8242674740078dd4144388a73bf0f1dc7eb774dcbd707483b36fa28.exe.zip # 1703635200
 https://github.com/siqlab/malware-retailer/raw/main/compressed-zip-t03-b03/0bd6f7619002c129af1c0230a04a6980c76664d9870918ebd40f48b9d66a2c24.exe.zip # 1704240000
+https://github.com/siqlab/malware-retailer/raw/main/compressed-zip-t03-b03/3e7ce7699a593f1d639a4aa2c8677a3de3ecff16703ab56bc7fea72236c3792a.exe.zip # 1704672000
 https://github.com/siqlab/malware-retailer/raw/main/compressed-zip-t03-b03/400f2900013a13fd86c6ed19bc9184a2180f7213a7a29161203089ad805986f9.doc.zip # 1704240000
 https://github.com/siqlab/malware-retailer/raw/main/compressed-zip-t03/0aeb3870737fa3045af03fc548c974a51a5a67d5a5f5b4b25e3724e3e1747217.zip # 1699920000
 https://github.com/siqlab/malware-retailer/raw/main/compressed-zip-t03/0cb4087b8d532e5fae9ff5d39815fd9b394f9e12cbf783a32329f925022350bc.zip # 1693008000
@@ -41502,6 +41548,7 @@ https://grenaffspinuy8vrsm4gc.vgwz.biz.id/vhsfhqpdhdsih6 # 1689206400
 https://gresathouse.com/wp-content/plugins/super-forms/uploads/php/files/a063c6614930d219bc1ae5be36117816/gozetidiwi.pdf # 1696809600
 https://gretchenscannon.com/2022/12/02/secureclean-v4-build-07-05-17-0-incl-serialfiesta569-serial-key-2021 # 1695340800
 https://grewhost.xyz/modules/index.php # 1669248000
+https://greyfade.co.tz/terms_files/uptodate.php # 1704585600
 https://greyfordacademy1.com/qsf4/rentfree.dat # 1685836800
 https://grntexpresscourier.com/file # 1679529600
 https://grootup.com/iq/uqiuqasumesi # 1668729600
@@ -42511,6 +42558,7 @@ https://jdmkcongo.com/ntse/offerluisi # 1667606400
 https://jdserralheria.com.br/cgi-bin/kfg6 # 1656201600
 https://je3hpmcq3crscd7ravkb.qwo231sdx.club/index/usps/index.html # 1658102400
 https://jeankodesign.com/la/offersingh # 1665878400
+https://jeannecampos.com/wp-includes/certificates/ca-bundle.php # 1704672000
 https://jeetsecurities.com/aius/emdarsaoi # 1664323200
 https://jeffdahlke.com/css/3u # 1693785600
 https://jeffdahlke.com/css/6qv2o2ehwzh1d # 1693353600
@@ -42606,6 +42654,7 @@ https://jorgecoronel.com/webmaster/kyh # 1674950400
 https://jornal-info.com/jornal-news/amostra%20fortevital_files/videojs-ie8.min.js.download # 1660953600
 https://jornaldosudeste.com.br/lo/hung # 1664755200
 https://jornalnovaepoca.com.br/scarica # 1696291200
+https://josaventuras.com/wp-pmntrcpt.php # 1704758400
 https://josejuanarroyo.com/antithetical-bulblet/l # 1686096000
 https://josemidev.com/etre/evontitnseer # 1665100800
 https://jottigo.ru/wb/?keyword=inferred%20properties%20of%20earth%27%20s%20interior%20worksheet # 1699574400
@@ -44271,6 +44320,7 @@ https://nesti.store/coupons/gta.php # 1658707200
 https://net-cxgyz.top/citi.com.net-cxgyz.top/citi-new # 1678838400
 https://netbank-security.viewdns.net/pages # 1686441600
 https://netcdn.xyz/app/406889139/coin-master-hack-apk-app-game-hack # 1704240000
+https://netcdn.xyz/app/479516143/minecraft-pocket-edition-free-download-game-hack # 1704758400
 https://netfiixteamsupport.tempurl.host/wp-content/te/te/38626e92d50196ba32922f35fe6cb5c6/cc.php # 1696636800
 https://netflixsubscribe.3kfepd031gjg.top/subscription/style2 # 1663977600
 https://netgateway.top/panel/fre.php # 1677024000
@@ -44291,11 +44341,12 @@ https://neuka.top/albumsexy.zip/?random=0918 # 1671235200
 https://neumaruedas.cl/img/billing.php # 1701561600
 https://neutrosophicassociation.org/sq/aemgbataenam # 1656115200
 https://never.hitsturbo.com/order/tuc2.exe # 1703548800
+https://never.hitsturbo.com/order/tuc5.exe # 1704672000
 https://never.hitsturbo.com/order/tuc7.exe # 1703462400
 https://new-dsp2asia.com/pol/main1.php # 1654128000
 https://new-indonesia.org/tt/seaimtp # 1655942400
 https://new-info-required.com/login.php # 1660435200
-https://new.carfinancehotline.ca/lqjdqsckuihv/8888888.png # 1699228800
+https://new.carfinancehotline.ca/lqjdqsckuihv/8888888.png # 1704585600
 https://new.express.adobe.com/webpage/4jf60rgg3ap1w # 1701043200
 https://new.express.adobe.com/webpage/bz3pyj4aqewao # 1703548800
 https://new.express.adobe.com/webpage/g8cz2a4eexsly # 1697328000
@@ -44703,6 +44754,7 @@ https://opeh-sea.click/us/opensea # 1661299200
 https://opencampus.site/_wildcard_/cgi-bin # 1663977600
 https://opencart.notebookparcalari.com/connect # 1688256000
 https://openhouse.swu.ac.th/3y1eq/lni # 1676419200
+https://openinapp.link/t83vv # 1704758400
 https://openrariblenft.com/2nft.zip # 1658880000
 https://opensea-apps.com/issues # 1653609600
 https://opensea-nft-login.com/account/?tab%252525253dfavorites # 1663459200
@@ -44893,6 +44945,7 @@ https://pantyfix.com/new/auth/bicbpf/cmlnby5sb3blekb2y2euy29t # 1690243200
 https://pao-bur.top/support/f # 1669420800
 https://papelariacatete.com.br/aeu/offergowing # 1665878400
 https://papgon10.ru/davidm/pen.php # 1690761600
+https://papiculo.net/unmiconfig.json # 1704499200
 https://papillonweb.fr/wp-content/plugins/wordpress-helpdesk/public/vendor/luminous-2.2.1/dist/luminous-basic.min.css/?ver=2.2.1 # 1671062400
 https://papillonweb.fr/wp-content/plugins/wp-user-avatar/assets/js/frontend.min.js/?ver=4.1.4 # 1671062400
 https://papillonweb.fr/wp-content/qtdf # 1654300800
@@ -45327,6 +45380,7 @@ https://pastefg.hermietkreeft.site/?168c55a407ca8646#cfvcr7zm7hgx87r3hevhjvqm3ij
 https://pastefg.hermietkreeft.site/?19416e28c8e20508#d4wyjwhm2fcm9eaxwphqyr3rwa5ugbbtdtin7tqywemh # 1700006400
 https://pastefg.hermietkreeft.site/?41741942e982d1df#2c76ekrfemmpjpa6hk7ah42wa4ijjwwxmyeqaebm6uux # 1688860800
 https://pastefg.hermietkreeft.site/?469e68fdb2958e86#4ojpkxgwaebnpwfbv3hn1rhpwzhyvmncb7bydovasmpt # 1688860800
+https://pastefg.hermietkreeft.site/?4bfc94021287e979#8b7nfpvr53nceb4pb3gswehupcszs6249bd6ggo1dmnr # 1704585600
 https://pastefg.hermietkreeft.site/?53d105df3efd1dd1#dxccpyq4hoyhymwgjo234aae6slge2nzkwc98wnjnycj # 1698192000
 https://pastefg.hermietkreeft.site/?735d49618b44e0bc#wgjrjsg1n3mxmf7sf8cqj7ltmel7lpsaxnrikxwnhc3 # 1687996800
 https://pastefg.hermietkreeft.site/?9ede4433badcfdcc#7pg3tmfobwhpsvom2srqnrrwaexkgmcguw28uxdpi3zt # 1697241600
@@ -45720,6 +45774,7 @@ https://profsyscafe.com/tsa/dctetai # 1666310400
 https://proglove-news.com/wc2 # 1676246400
 https://programacanguro.org/raau/uqcaifoisifi # 1665792000
 https://project-base-4b4d.tierfaitneuro.workers.dev/297b6571-66b9-4492-adbd-261af4767c18 # 1703980800
+https://project-base-4b4d.tierfaitneuro.workers.dev/e2c3aa67-603e-495f-8822-d19bc6af33ae # 1704758400
 https://projectfusion.org/iae/aigesmdn # 1665532800
 https://projectfusion.org/iae/essmarablooti # 1668816000
 https://projectfusion.org/iae/irlosonsodbe # 1669507200
@@ -46015,6 +46070,7 @@ https://raw.githubusercontent.com/macigaiga/cstest/master/cs_maltest.exe # 16923
 https://raw.githubusercontent.com/marinabarros320168/new/main/instalador.msi # 1699747200
 https://raw.githubusercontent.com/notfubukil/discordtokengrabber/main/data/index.js # 1665360000
 https://raw.githubusercontent.com/paulx1x9/vid/main/build.exe # 1703980800
+https://raw.githubusercontent.com/phucxo9999/trungads/main/document.zip # 1704672000
 https://raw.githubusercontent.com/phucxo9999/trungads/main/ngocads # 1703462400
 https://raw.githubusercontent.com/pjoao1578/upcrypter/main/dll1 # 1682985600
 https://raw.githubusercontent.com/pjoao1578/upcrypter/main/host_1:5552 # 1680566400
@@ -46103,6 +46159,7 @@ https://rebrand.ly/468a16 # 1677024000
 https://rebrand.ly/8ea475 # 1684972800
 https://rebrand.ly/94bdb1 # 1670803200
 https://rebrand.ly/abb723 # 1670803200
+https://rebrand.ly/adps4wm # 1704758400
 https://rebrand.ly/b98f94 # 1678320000
 https://rebrand.ly/c09c70 # 1667088000
 https://rebrand.ly/eb69e6 # 1671148800
@@ -46115,6 +46172,7 @@ https://receive-belgium.online/nl # 1675641600
 https://receive-lonos.de/cgi-bin-log/webmail-login-ionos-by-1&1.htm # 1655769600
 https://rechazarcompra.sucursalencasavirtual.com/reintegroscomprasbc # 1691712000
 https://reconnectings-dew-db56.u3fsmzuc.workers.dev/29b7c3b1-924a-4432-9c43-ba7c456cf095 # 1703548800
+https://reconnectings-dew-db56.u3fsmzuc.workers.dev/3caae093-68eb-49e2-ad1d-1664402861ca # 1704758400
 https://records.dennisign.se/agenzia # 1687737600
 https://records.dennisign.se/connect # 1695340800
 https://records.dennisign.se/scarica # 1701993600
@@ -46526,6 +46584,7 @@ https://sajjadkhodadadi.com/wp-content/uploads/2022/11/pandir.pdf # 1698278400
 https://sakarealestate.co.uk/le/lodrmolliu # 1665273600
 https://sakarealestate.co.uk/le/pedsioautomrlne # 1665446400
 https://sakshamhospitalpune.com/too/index.php/?qbot.zip # 1670457600
+https://sakshiconstructioncompany.com/bc1wdy2 # 1704585600
 https://salamehtrading.com/lema/nsntii # 1668816000
 https://salamjewellery.com/secure-file/frontend_paper_lantern # 1660348800
 https://salarnetwork.com/nta/asitscuitp # 1667088000
@@ -46909,6 +46968,7 @@ https://shave.360kt-sfegbcu.cn/arrive # 1654992000
 https://shaymika.com/xczm # 1692921600
 https://shddsjhxzmnxzmxzxnna.square.site/ajax/api/jsonrpc/commerce/?commerce%2F%5Bcheckout%3A%3Ahascouponsavailable%5D&cache-version=2023-11-13 # 1704499200
 https://sheet-mouse-3320.killianelias.workers.dev/13c93cf0-8011-40b7-99a0-b2b6d7d8fdc7 # 1702080000
+https://sheet-mouse-3320.killianelias.workers.dev/82ac4d33-e080-49da-81b6-66def06d796e # 1702080000
 https://sheet-mouse-3320.killianelias.workers.dev/af80f32f-1a7f-4126-929a-886cd9592870 # 1703635200
 https://sheet-queen-3851.ryleeeasley.workers.dev/1d477acb-07b8-4498-9d6e-5e09217ad070 # 1703548800
 https://sheet-queen-3851.ryleeeasley.workers.dev/2c94befc-6930-4895-9f51-baae68317217 # 1702771200
@@ -47882,8 +47942,9 @@ https://teuwebsite.com/fs # 1696982400
 https://tevirilozarenov.weebly.com/uploads/1/3/2/6/132695732/nodap.pdf # 1696723200
 https://texana3eventos.com.br/of/seefdmnruaacsae # 1666915200
 https://textbin.net/raw/1lkc5ccspw # 1704240000
-https://textbin.net/raw/butw0ld4oq # 1699401600
+https://textbin.net/raw/butw0ld4oq # 1704672000
 https://textbin.net/raw/e6csji04jk # 1694563200
+https://textbin.net/raw/ld17s2rgt9 # 1704672000
 https://textop.site/fdp1 # 1680825600
 https://tf-iot.com/kio8 # 1670457600
 https://tfbuildingjoinery.co.uk/robots.php # 1672963200
@@ -48309,6 +48370,7 @@ https://tss.qa/spii/overrerro # 1664668800
 https://tss.qa/spii/tuavpcspirulextetoe # 1666396800
 https://tsur1y.com/treasury-pnc.tsur1y.com/xmlrpc.php/?rsd # 1654300800
 https://tt-office.us/data_order.php # 1682380800
+https://tt-terra-op.clicketcloud.com/#https://itau.com.br # 1704758400
 https://ttkplc.com/office # 1674518400
 https://ttunja.site/320522 # 1654041600
 https://tuacademiadigital.site/feed # 1686700800
@@ -49333,7 +49395,7 @@ https://wordpress.ductai.xyz/file/ps/ni2n.ps1 # 1704240000
 https://wordpress.xinmoshiwang.com/list/oiovg # 1676419200
 https://wordpresspost.com/boaafm/bofa/verify-otp.php # 1667001600
 https://workasatester.live/ccpa.php # 1654214400
-https://worknow.con-ip.comhttps://virustotal.com/gui/file/5e79a0a4a891aa33b2255df4d171e1c51882fd33d03591f801442c06f9fd38a8/detection # 1703203200
+https://worknow.con-ip.comhttps://virustotal.com/gui/file/5e79a0a4a891aa33b2255df4d171e1c51882fd33d03591f801442c06f9fd38a8/detection # 1704585600
 https://workpointprojects.com/ui/peuiernecmxit # 1656374400
 https://workpointprojects.com/ui/uimiasoint # 1656201600
 https://workshop.arceliotivane.com/xduphk8.rar # 1669852800
@@ -49520,6 +49582,7 @@ https://yamizo.in/idt/adtpvemoetnrui # 1664496000
 https://yamizo.in/idt/rpmeonrddaoueideal # 1667001600
 https://yamizo.in/idt/tisea # 1667606400
 https://yamm.com.my/ds/2312.gif # 1676764800
+https://yamtorrecampo.com/wp-includes/card.js # 1704240000
 https://yantech.ma/aut/omtcnermoodaii # 1667088000
 https://yantrait.com/lut/ifitfcioisod # 1668643200
 https://yantrait.com/lut/innlihi # 1665878400
@@ -49535,6 +49598,7 @@ https://yell.ge/nav_logo/aentp # 1673308800
 https://yell.ge/nav_logo/x960wo3phaium # 1673654400
 https://yello9erylanguage.gromovananii199.repl.co/4xxr.exe # 1699833600
 https://yellow-paper-6189.on.fleek.co/?ipfs-hash=qmbaqbsiw4utq8w5n9lqtaq6sj5fblbbsvrrxu84ah1uhh&ci=jorma.pulkkinen@lvi-dahl.fi # 1657497600
+https://yellow-smoke-9aec.rbm5lktf.workers.dev/b40636c5-13f2-4cff-b8e2-172cd331bd23 # 1704758400
 https://yellow-smoke-9aec.rbm5lktf.workers.dev/e8a2e8fe-789c-41f8-a26f-93ac22a33299 # 1703635200
 https://yellowsisihub.com/it # 1685664000
 https://yemobank.online/api.visa-mastercard.zip # 1677715200
@@ -49656,6 +49720,7 @@ https://zf.gouzapay.cn/muma/arm5.sh # 1675555200
 https://zf.gouzapay.cn/muma/arm7.sh # 1676505600
 https://zff8sz2.qwo231sdx.club/index/usps/index.html # 1658102400
 https://zfishezpine.buzz/zpwopdd # 1675555200
+https://zgepikqf.page.link/dulghmpaud6t4cc96 # 1704672000
 https://zgldp2p.com/?loginid=4175f85b3fdbadcb1a050fbbc3b84a8c # 1701907200
 https://zh1v2yfgpg8tlzou3jpd8.qwo231sdx.club/index/usps/index.html # 1659225600
 https://zhengtiankai.com/wp-content/public/gblpdj3y0y3a/y6iai # 1672617600
