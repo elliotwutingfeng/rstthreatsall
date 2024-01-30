@@ -400,7 +400,7 @@ class TestShort(unittest.TestCase):
 
 
 if __name__ == "__main__":
-    with multiprocessing.Pool(None) as p:
+    with multiprocessing.get_context("fork").Pool(None) as p:
         random100 = Random100()
         p.map(random100.write_random100_list, [Task.DOMAIN, Task.IP, Task.URL])
 
